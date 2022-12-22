@@ -17,6 +17,8 @@ function squre ()
 }
 squre()*/
 
+//with pramater
+
 var num1 = Number (prompt("Enter your Number:"));
 var num2 = Number (prompt("Enter your second Number:"));
 var num3 = Number (prompt("Enter your Thard Number:"));
