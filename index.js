@@ -6,7 +6,7 @@
   var num3 = Number (prompt("Enter your Thard Number:"));
 
 
-function squre ()
+function mathmatic()
 {
   
   document.write("Add is: " + (num1+num2+num3) + "<br/>" );
@@ -15,7 +15,7 @@ function squre ()
   document.write("Division is" + (num1 / num2/ num3) + "<br/>");
 
 }
-squre()*/
+mathmatic()*/
 
 //with pramater
 
